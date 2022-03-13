@@ -7,18 +7,18 @@ f_loglevel = 'DEBUG'
 #ログレベル（コンソール出力）
 c_loglevel = 'DEBUG'
 #SMTPサーバ
-p_smtp_host = 'smtp.office365.com'
+p_smtp_host = ''
 #SMTPポート番号
-p_smtp_port = 587
+p_smtp_port = 000
 #発信元メールアドレス
-p_from_email = 'kaberion@hotmail.com'
+p_from_email = ''
 #送信先メールアドレス
-p_to_email = 'kaberion@hotmail.com'
+p_to_email = ''
 #メール認証ユーザ名
-p_username = 'kaberion@hotmail.com'
+p_username = ''
 #メール認証パスワード
-p_password = 'hmmtbal'
+p_password = ''
 #メール件名
-p_mail_sub = '(notice)scrayping data'
+p_mail_sub = ''
 
 
